@@ -103,17 +103,6 @@ Create simple visualizations with matplotlib.
 
 End-to-end workflow of Data Analysis Project.
 
-📌 Interview Questions
-
-How did you connect Python to SQLite?
-
-What does the GROUP BY clause do?
-
-How did you calculate revenue?
-
-Why use pandas with SQL?
-
-Could this query be run directly in DB Browser for SQLite?
 
 📤 Submission
 
